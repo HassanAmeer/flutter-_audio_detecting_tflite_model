@@ -1,0 +1,477 @@
+0 Speech
+1 Child speech, kid speaking
+2 Conversation
+3 Narration, monologue
+4 Babbling
+5 Speech synthesizer
+6 Shout
+7 Bellow
+8 Whoop
+9 Yell
+10 Children shouting
+11 Screaming
+12 Whispering
+13 Laughter
+14 Baby laughter
+15 Giggle
+16 Snicker
+17 Belly laugh
+18 Chuckle, chortle
+19 Crying, sobbing
+20 Baby cry, infant cry
+21 Whimper
+22 Wail, moan
+23 Sigh
+24 Singing
+25 Choir
+26 Yodeling
+27 Chant
+28 Mantra
+29 Child singing
+30 Synthetic singing
+31 Rapping
+32 Humming
+33 Groan
+34 Grunt
+35 Whistling
+36 Breathing
+37 Wheeze
+38 Snoring
+39 Gasp
+40 Pant
+41 Snort
+42 Cough
+43 Throat clearing
+44 Sneeze
+45 Sniff
+46 Run
+47 Shuffle
+48 Walk, footsteps
+49 Chewing, mastication
+50 Biting
+51 Gargling
+52 Stomach rumble
+53 Burping, eructation
+54 Hiccup
+55 Fart
+56 Hands
+57 Finger snapping
+58 Clapping
+59 Heart sounds, heartbeat
+60 Heart murmur
+61 Cheering
+62 Applause
+63 Chatter
+64 Crowd
+65 Hubbub, speech noise, speech babble
+66 Children playing
+67 Animal
+68 Domestic animals, pets
+69 Dog
+70 Bark
+71 Yip
+72 Howl
+73 Bow-wow
+74 Growling
+75 Whimper (dog)
+76 Cat
+77 Purr
+78 Meow
+79 Hiss
+80 Caterwaul
+81 Livestock, farm animals, working animals
+82 Horse
+83 Clip-clop
+84 Neigh, whinny
+85 Cattle, bovinae
+86 Moo
+87 Cowbell
+88 Pig
+89 Oink
+90 Goat
+91 Bleat
+92 Sheep
+93 Fowl
+94 Chicken, rooster
+95 Cluck
+96 Crowing, cock-a-doodle-doo
+97 Turkey
+98 Gobble
+99 Duck
+100 Quack
+101 Goose
+102 Honk
+103 Wild animals
+104 Roaring cats (lions, tigers)
+105 Roar
+106 Bird
+107 Bird vocalization, bird call, bird song
+108 Chirp, tweet
+109 Squawk
+110 Pigeon, dove
+111 Coo
+112 Crow
+113 Caw
+114 Owl
+115 Hoot
+116 Bird flight, flapping wings
+117 Canidae, dogs, wolves
+118 Rodents, rats, mice
+119 Mouse
+120 Patter
+121 Insect
+122 Cricket
+123 Mosquito
+124 Fly, housefly
+125 Buzz
+126 Bee, wasp, etc.
+127 Frog
+128 Croak
+129 Snake
+130 Rattle
+131 Whale vocalization
+132 Music
+133 Musical instrument
+134 Plucked string instrument
+135 Guitar
+136 Electric guitar
+137 Bass guitar
+138 Acoustic guitar
+139 Steel guitar, slide guitar
+140 Tapping (guitar technique)
+141 Strum
+142 Banjo
+143 Sitar
+144 Mandolin
+145 Zither
+146 Ukulele
+147 Keyboard (musical)
+148 Piano
+149 Electric piano
+150 Organ
+151 Electronic organ
+152 Hammond organ
+153 Synthesizer
+154 Sampler
+155 Harpsichord
+156 Percussion
+157 Drum kit
+158 Drum machine
+159 Drum
+160 Snare drum
+161 Rimshot
+162 Drum roll
+163 Bass drum
+164 Timpani
+165 Tabla
+166 Cymbal
+167 Hi-hat
+168 Wood block
+169 Tambourine
+170 Rattle (instrument)
+171 Maraca
+172 Gong
+173 Tubular bells
+174 Mallet percussion
+175 Marimba, xylophone
+176 Glockenspiel
+177 Vibraphone
+178 Steelpan
+179 Orchestra
+180 Brass instrument
+181 French horn
+182 Trumpet
+183 Trombone
+184 Bowed string instrument
+185 String section
+186 Violin, fiddle
+187 Pizzicato
+188 Cello
+189 Double bass
+190 Wind instrument, woodwind instrument
+191 Flute
+192 Saxophone
+193 Clarinet
+194 Harp
+195 Bell
+196 Church bell
+197 Jingle bell
+198 Bicycle bell
+199 Tuning fork
+200 Chime
+201 Wind chime
+202 Change ringing (campanology)
+203 Harmonica
+204 Accordion
+205 Bagpipes
+206 Didgeridoo
+207 Shofar
+208 Theremin
+209 Singing bowl
+210 Scratching (performance technique)
+211 Pop music
+212 Hip hop music
+213 Beatboxing
+214 Rock music
+215 Heavy metal
+216 Punk rock
+217 Grunge
+218 Progressive rock
+219 Rock and roll
+220 Psychedelic rock
+221 Rhythm and blues
+222 Soul music
+223 Reggae
+224 Country
+225 Swing music
+226 Bluegrass
+227 Funk
+228 Folk music
+229 Middle Eastern music
+230 Jazz
+231 Disco
+232 Classical music
+233 Opera
+234 Electronic music
+235 House music
+236 Techno
+237 Dubstep
+238 Drum and bass
+239 Electronica
+240 Electronic dance music
+241 Ambient music
+242 Trance music
+243 Music of Latin America
+244 Salsa music
+245 Flamenco
+246 Blues
+247 Music for children
+248 New-age music
+249 Vocal music
+250 A capella
+251 Music of Africa
+252 Afrobeat
+253 Christian music
+254 Gospel music
+255 Music of Asia
+256 Carnatic music
+257 Music of Bollywood
+258 Ska
+259 Traditional music
+260 Independent music
+261 Song
+262 Background music
+263 Theme music
+264 Jingle (music)
+265 Soundtrack music
+266 Lullaby
+267 Video game music
+268 Christmas music
+269 Dance music
+270 Wedding music
+271 Happy music
+272 Sad music
+273 Tender music
+274 Exciting music
+275 Angry music
+276 Scary music
+277 Wind
+278 Rustling leaves
+279 Wind noise (microphone)
+280 Thunderstorm
+281 Thunder
+282 Water
+283 Rain
+284 Raindrop
+285 Rain on surface
+286 Stream
+287 Waterfall
+288 Ocean
+289 Waves, surf
+290 Steam
+291 Gurgling
+292 Fire
+293 Crackle
+294 Vehicle
+295 Boat, Water vehicle
+296 Sailboat, sailing ship
+297 Rowboat, canoe, kayak
+298 Motorboat, speedboat
+299 Ship
+300 Motor vehicle (road)
+301 Car
+302 Vehicle horn, car horn, honking
+303 Toot
+304 Car alarm
+305 Power windows, electric windows
+306 Skidding
+307 Tire squeal
+308 Car passing by
+309 Race car, auto racing
+310 Truck
+311 Air brake
+312 Air horn, truck horn
+313 Reversing beeps
+314 Ice cream truck, ice cream van
+315 Bus
+316 Emergency vehicle
+317 Police car (siren)
+318 Ambulance (siren)
+319 Fire engine, fire truck (siren)
+320 Motorcycle
+321 Traffic noise, roadway noise
+322 Rail transport
+323 Train
+324 Train whistle
+325 Train horn
+326 Railroad car, train wagon
+327 Train wheels squealing
+328 Subway, metro, underground
+329 Aircraft
+330 Aircraft engine
+331 Jet engine
+332 Propeller, airscrew
+333 Helicopter
+334 Fixed-wing aircraft, airplane
+335 Bicycle
+336 Skateboard
+337 Engine
+338 Light engine (high frequency)
+339 Dental drill, dentist's drill
+340 Lawn mower
+341 Chainsaw
+342 Medium engine (mid frequency)
+343 Heavy engine (low frequency)
+344 Engine knocking
+345 Engine starting
+346 Idling
+347 Accelerating, revving, vroom
+348 Door
+349 Doorbell
+350 Ding-dong
+351 Sliding door
+352 Slam
+353 Knock
+354 Tap
+355 Squeak
+356 Cupboard open or close
+357 Drawer open or close
+358 Dishes, pots, and pans
+359 Cutlery, silverware
+360 Chopping (food)
+361 Frying (food)
+362 Microwave oven
+363 Blender
+364 Water tap, faucet
+365 Sink (filling or washing)
+366 Bathtub (filling or washing)
+367 Toilet flush
+368 Zipper (clothing)
+369 Keys jangling
+370 Coin (dropping)
+371 Scissors
+372 Electric shaver, electric razor
+373 Shuffling cards
+374 Typing
+375 Typewriter
+376 Computer keyboard
+377 Writing
+378 Alarm
+379 Telephone
+380 Telephone bell ringing
+381 Ringtone
+382 Telephone dialing, DTMF
+383 Telephone busy signal
+384 Alarm clock
+385 Siren
+386 Buzzer
+387 Smoke detector, smoke alarm
+388 Fire alarm
+389 Foghorn
+390 Whistle
+391 Steam whistle
+392 Mechanisms
+393 Ratchet, pawl
+394 Clock
+395 Tick
+396 Tick-tock
+397 Gears
+398 Pulleys
+399 Sewing machine
+400 Mechanical fan
+401 Air conditioning
+402 Cash register
+403 Printer
+404 Computer printer
+405 Dot matrix printer
+406 Camera
+407 Single-lens reflex camera
+408 Tools
+409 Hammer
+410 Jackhammer
+411 Sawing
+412 Filing (rasp)
+413 Sanding
+414 Power tool
+415 Drill
+416 Explosion
+417 Gunshot, gunfire
+418 Machine gun
+419 Firing range
+420 Artillery fire
+421 Cap gun
+422 Fireworks
+423 Firecracker
+424 Burst, pop
+425 Eruption
+426 Boom
+427 Wood
+428 Chopping wood
+429 Splinter
+430 Crack
+431 Glass
+432 Breaking
+433 Shatter
+434 Liquid
+435 Splash, splatter
+436 Slosh
+437 Squish
+438 Drinking, swallowing
+439 Pour
+440 Ice
+441 Crack
+442 Tinkle
+443 Miscellaneous
+444 Male
+445 Female
+446 Chatter
+447 Whispering
+448 Laughter
+449 Baby laughter
+450 Giggle
+451 Breathing
+452 Wheeze
+453 Snoring
+454 Gasp
+455 Pant
+456 Snort
+457 Cough
+458 Sneeze
+459 Water tap, faucet
+460 Air conditioning
+461 Typing
+462 Printer
+463 Computer printer
+464 Dot matrix printer
+465 Tools
+466 Explosion
+467 Gunshot, gunfire
+468 Machine gun
+469 Firing range
+470 Artillery fire
+471 Cap gun
+472 Fireworks
+473 Firecracker
+474 Burst, pop
+475 Eruption
+476 Boom
