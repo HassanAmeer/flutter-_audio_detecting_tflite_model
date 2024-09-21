@@ -7,8 +7,8 @@
     <img src="assets_readme/Screenshot_apple.jpg" width="200px">
     <img src="assets_readme/Screenshot_banana.jpg" width="200px">
     <img src="assets_readme/Screenshot_audio.jpg" width="200px">
-    <img src="assets_readme/img1.png" width="200px">
-    <img src="assets_readme/img2.png" width="200px">
+    <img src="assets_readme/img1.jpeg" width="200px">
+    <img src="assets_readme/img2.jpeg" width="200px">
 </p>
 
 ## Aviso
