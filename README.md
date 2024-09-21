@@ -10,7 +10,7 @@
     <img src="assets_readme/img1.jpeg" width="200px">
     <img src="assets_readme/img2.jpeg" width="200px">
 </p>
-
+ 
 ## Aviso
 As configurações do TensorFlow foram feitas apenas para Android, portanto não irá funcionar num dispositivo iOS.
 
